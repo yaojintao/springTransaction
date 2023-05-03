@@ -1,2 +1,5 @@
-package com;public class PayService {
+package com;
+
+public interface PayService {
+    public void pay();
 }
